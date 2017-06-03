@@ -1,0 +1,62 @@
+.ads img
+{
+	width:100%;
+	margin-bottom: 20px;
+}
+.nav 
+{
+	margin:0 auto;
+	display: inherit;
+}
+.row-list
+{
+	display: flex;
+	margin-bottom: 20px;
+}
+.news-list, .info-news p
+{
+	font-size: 13px;
+}
+.news-list h6
+{	
+	color: rgba(0, 0, 0, 0.5);
+}
+.nav .li-list
+{
+	border-bottom: 2px solid #9F9FA0;
+}
+.li-list:first-child
+{
+	padding-left: 20px;
+}
+.li-list:last-child
+{
+	padding-right: 20px;
+}
+.news-list a, .li-list a
+{
+	color: black;
+}
+.news-list a:hover, .li-list a:hover
+{
+    color: red;
+    text-decoration: none;
+} 
+.info-news h3
+{
+	font-size:20px;
+}
+.info-news img
+{
+	margin-left:55px;
+	width:82%;
+}
+.info-news h1
+{
+	font-weight: bold;
+}
+.news-list img
+{
+	width:100%;
+	margin:15px 0px;
+}
